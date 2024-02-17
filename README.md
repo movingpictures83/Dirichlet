@@ -1,0 +1,2 @@
+# Dirichlet
+Dirichlet distribution
