@@ -1,0 +1,2 @@
+Prefix plugins/Dirichlet/example/
+Plugin Dirichlet inputfile parameters.txt outputfile none
